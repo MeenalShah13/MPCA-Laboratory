@@ -1,0 +1,5 @@
+MOV r0,#0
+CMP YAY
+CMN MOV r1,#3
+MOV r0,#2
+YAY: MOV r1,#1

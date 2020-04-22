@@ -1,0 +1,4 @@
+MOV r0,#30
+MOV r1,#21
+ANDS r2,r0,#1
+ANDS r3,r1,#1
